@@ -10,7 +10,7 @@ Currently pursuing a degree in Computer Science with a passion for Cybersecurity
 
 ### 🚀 Projects
 
-- **[Secure Shield](#)**  
+- **[Secure Shield](https://github.com/abhinavanil22/SecureShield.git)**  
   A cybersecurity threat detection system combining AI-based intrusion detection with OSINT threat feeds for real-time defense.
 
 - **[Celebrity Look-Alike](#)**  
