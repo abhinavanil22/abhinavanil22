@@ -23,14 +23,6 @@ Currently pursuing a degree in Computer Science with a passion for Cybersecurity
 
 ### 🛠️ Skills
 
-#### <img src="https://img.shields.io/badge/-Cybersecurity-red?style=for-the-badge&logo=virustotal&logoColor=white" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Snort-E34F26?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Bettercap-000000?style=for-the-badge" />
-</p>
 
 #### <img src="https://img.shields.io/badge/-Machine%20Learning-orange?style=for-the-badge&logo=openai&logoColor=white" />
 
